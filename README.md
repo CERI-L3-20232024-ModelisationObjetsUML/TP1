@@ -7,6 +7,6 @@ Pour le dépôt final, il vous est demandé de déposer vos modèles au format P
 
 Pour créer votre propre fork du projet, et ainsi commencer le TP, cliquez sur le lien correspondant à votre groupe :
 
-* Pour les étudiants et étudiantes du **groupe TD1** : 
-* Pour les étudiants et étudiantes du **groupe TD2, TD4, TD5 et TD6** : 
-* Pour les étudiants et étudiantes du **groupe TD3** : 
+* Pour les étudiants et étudiantes du **groupe TD1** : https://classroom.github.com/a/yuPd1xjs
+* Pour les étudiants et étudiantes du **groupe TD2, TD4, TD5 et TD6** : https://classroom.github.com/a/Hu4g6TqS
+* Pour les étudiants et étudiantes du **groupe TD3** : https://classroom.github.com/a/WGXQ8rBl
